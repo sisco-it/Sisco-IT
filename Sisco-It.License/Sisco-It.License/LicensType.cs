@@ -8,6 +8,7 @@ namespace Sisco_It.License
 {
     public enum LicensType
     {
-        TRIAL
+        TRIAL,
+        FULL
     }
 }
