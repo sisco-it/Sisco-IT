@@ -11,5 +11,9 @@ namespace Sisco_It.License
         public string FullName { get; set; }
         public string ProduckKey { get; set; }
 
+        public int Day { get; set; }
+        public int Month { get; set; }
+        public int Year { get; set; }
+
     }
 }
